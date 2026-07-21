@@ -1,28 +1,16 @@
 ---
-title: "Mon Projet IA"
-description: "Description de mon projet"
+title: "Matrix Rain"
+description: "Pluie de caracteres numeriques style Matrix sur votre ecran"
 category: "Web App"
 audience: "Tous"
 screenshot: "screenshot.png"
 video: ""
 ---
 
-# Mon Projet IA
+# Matrix Rain
 
-Bienvenue dans mon projet !
+Une simulation de la pluie de caracteres verts du film Matrix, directement dans le navigateur.
 
-## Prerequisites
+## Utilisation
 
-...
-
-## Installation
-
-...
-
-## Usage
-
-...
-
-## A propos
-
-Ce projet a ete cree dans le cadre de l'AI Lab.
+Ouvrir `index.html` dans un navigateur.
